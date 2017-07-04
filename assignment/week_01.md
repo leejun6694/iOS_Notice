@@ -42,3 +42,6 @@
 	* 예시문서 [Link](https://github.com/connect-boostcamp/SwiftNamingCorrectionSample)
 
 예제 저장소 링크를 따라가면 간단한 예시를 볼 수 있습니다. 간단한 예시이므로 더 좋은 표현방법으로 문서를 작성 하여도 좋습니다. 단, mark down 문법을 사용하여야 합니다.
+
+## 이번 주 참고영상
+* [Xcode - Interface Builder 사용 팁](https://youtu.be/KppJZS43O4Y)
