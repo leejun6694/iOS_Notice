@@ -41,3 +41,4 @@ Boostcamp iOS 2기 학습 및 과제안내 저장소입니다.
 ## 주차별 과제
 
 * [1주차 *(06.29~07.05)*](assignment/week_01.md)
+* [2주차 *(07.06~07.12)*](assignment/week_02.md)
