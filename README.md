@@ -64,4 +64,5 @@ week2 폴더에 2주차 과제 수행
 ## 주차별 과제
 
 * [1주차 *(06.29~07.05)*](assignment/week_01.md)
+	* [예제 프로젝트 저장소](https://github.com/connect-boostcamp/LoginPage_iOS)
 * [2주차 *(07.06~07.12)*](assignment/week_02.md)
