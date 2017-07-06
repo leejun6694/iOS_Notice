@@ -9,7 +9,7 @@
 	* 6장 : 프로그래밍으로 뷰 만들기
 * 교재의 UIGestureRecognizer(18장) 내용 익히기
 * [iOS Technology Overview](https://developer.apple.com/library/content/documentation/Miscellaneous/Conceptual/iPhoneOSTechOverview/Introduction/Introduction.html) 문서 훑어보기
-* [Cocoa Fundamentals Guide 문서](reading_assignment/cocoa_fundamentals.pdf)의 아래 챕터 읽어오기
+* [Cocoa Fundamentals Guide 문서](reading/cocoa_fundamentals.pdf)의 아래 챕터 읽어오기
 	* How Cocoa Fits into iOS
 	* Foundation 
 	* UIKit (iOS) 
