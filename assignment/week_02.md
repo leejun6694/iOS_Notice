@@ -3,6 +3,7 @@
 ## 개인과제
 
 * 애플의 [MVC 문서](https://developer.apple.com/library/content/documentation/General/Conceptual/DevPedia-CocoaCore/MVC.html) 읽어오기
+* [Start Developing iOS Apps (Swift)](https://developer.apple.com/library/content/referencelibrary/GettingStarted/DevelopiOSAppsSwift/index.html)의 Define Your Data Model 파트까지 읽어오기
 * 교재 4~6장 문제 해결해보기
 	* 4장 : 텍스트 입력과 델리게이션
 	* 5장 : 뷰 컨트롤러
