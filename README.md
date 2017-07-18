@@ -111,3 +111,5 @@ Pre-course에서 다루지 않은 스위프트 심화 문법이 담겨있습니�
 * [2주차 *(07.06~07.12)*](assignment/week_02.md)
 	* [예제 프로젝트 저장소](https://github.com/connect-boostcamp/SignUpFlow_iOS)
 * [3주차 *(07.13~07.19)*](assignment/week_03.md)
+	* [예제 프로젝트 저장소](https://github.com/connect-boostcamp/MyButton_iOS)
+* [4주차 *(07.20~07.26)*](assignment/week_04.md)
