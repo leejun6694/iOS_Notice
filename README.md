@@ -117,3 +117,5 @@ Pre-course에서 다루지 않은 스위프트 심화 문법이 담겨있습니�
 * [4주차 *(07.20~07.26)*](assignment/week_04.md)
 	* [예제 프로젝트 저장소](https://github.com/connect-boostcamp/OneToTwentyFive_iOS)
 * [5주차 *(07.27~08.02)*](assignment/week_05.md)
+	* [예제 프로젝트 저장소](https://github.com/connect-boostcamp/ImageBoard_iOS)
+* [6주차 *(08.03~08.09)*](assignment/week_06.md)
